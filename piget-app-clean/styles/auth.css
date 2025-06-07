@@ -1,0 +1,16 @@
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.auth-form input, .auth-form button {
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.auth-form h2 {
+    text-align: center;
+}
